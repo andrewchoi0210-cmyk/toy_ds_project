@@ -1,2 +1,2 @@
-# dsci-100-project_template
+print(Hello World)
 Template project repository for DSCI-100
